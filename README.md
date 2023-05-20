@@ -1,5 +1,5 @@
-# tabular-minicap-1-main
-tabular-minicap-1
+# Employee-Promotion-system-ML-model
+
 Repository for data and code for minicap-1 project
 
 Problem Description
